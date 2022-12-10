@@ -58,8 +58,8 @@ https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoCol
   </p>
   
   <p align="center">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=khushhalsharma&show_icons=true&locale=en&layout=compact" width="494" alt="pic" />
-    <img  src="https://github-readme-stats.vercel.app/api?username=khushhalsharma&show_icons=true&locale=en" alt="khushhalsharma" /></p>
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=khushhalsharma&show_icons=true&locale=en&layout=compact" width="49%" alt="pic" />
+    <img  src="https://github-readme-stats.vercel.app/api?username=khushhalsharma&show_icons=true&locale=en" alt="khushhalsharma" width="50%" /></p>
   </p>
   
  <p>
