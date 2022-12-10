@@ -24,7 +24,7 @@
   
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushhalsharma&show_icons=true&locale=en&layout=compact" alt="khushhalsharma" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushhalsharma&show_icons=true&locale=en&layout=compact" alt="khushhalsharma" /></p>
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
