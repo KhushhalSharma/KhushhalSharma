@@ -10,7 +10,9 @@
 <a href="https://twitter.com/explorewithcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="explorewithcode" height="30" width="80" /></a>
 <a href="https://linkedin.com/in/khushhal-sharma-72539b255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushhal-sharma-662a6a240" height="30" width="80" /></a>
 <a href="https://instagram.com/ig.dugu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig.dugu" height="30" width="80" /></a>
-  <a href="https://www.facebook.com/profile.php?id=100081251149390" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100081251149390" height="30" width="80" /></a>
+  <a href="https://www.facebook.com/profile.php?id=100081251149390" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100081251149390" height="30" width="80" /></a> <a href="mailto:explorewith.coder@gmail.com" target="blank"><img align="center" src="
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" width="80" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
