@@ -63,7 +63,7 @@ https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoCol
   </p>
   
  <p>
-      <img align="left" src="https://camo.githubusercontent.com/d0b648319b2658c7e823fa4c1af739458a2bd48768b0c1f569f5b6839f4dd149/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6b6875736868616c736861726d6126" alt="khushhalsharma" width="50%%"/>
+      <img align="left" src="https://camo.githubusercontent.com/d0b648319b2658c7e823fa4c1af739458a2bd48768b0c1f569f5b6839f4dd149/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6b6875736868616c736861726d6126" alt="khushhalsharma" width="40%%"/>
    <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="30%"/>
     <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="20%" />
 
