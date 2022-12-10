@@ -60,7 +60,11 @@
   <p align="center">
     <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
     <img align="right" alt "GIF" src="https://raw.githubusercontent.com/demartini/demartini/master/code.gif" width="500" height="320"
-     
-    
   </p>  
+    
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushhalsharma&show_icons=true&locale=en&layout=compact" alt="khushhalsharma" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushhalsharma&show_icons=true&locale=en" alt="khushhalsharma" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushhalsharma&" alt="khushhalsharma" /></p>
   
