@@ -24,9 +24,3 @@
   
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushhalsharma&show_icons=true&locale=en&layout=compact" alt="khushhalsharma" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushhalsharma&show_icons=true&locale=en" alt="khushhalsharma" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushhalsharma&" alt="khushhalsharma" /></p>
-
