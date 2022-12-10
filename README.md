@@ -34,16 +34,16 @@
 <a href="https://reactjs.org/">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
  </a>
-   <a href="">
+   <a href="https://www.typescriptlang.org/">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
 </a>
 
- <a href="">
+ <a href="https://nodejs.org">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
 </a>
 
 
-<a href="">
+<a href="https://github.com/">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
 </a>
   
