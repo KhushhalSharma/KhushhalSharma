@@ -1,5 +1,8 @@
-# Draws the contribution graph with a snake eating it, in light and dark versions.
-# Runs every 12 hours and publishes the SVGs to the "output" branch.
+# Draws the contribution graph with a snake eating it, in light and dark versions,
+# and publishes the SVGs to the "output" branch.
+#  - github-contribution-grid-snake*.svg       last 12 months (standard snk action)
+#  - github-contribution-grid-snake-2023*.svg  calendar year 2023 (snk source, with the
+#    contributions query limited to 2023, since the action has no year option)
 name: Generate Snake
 
 on:
@@ -20,6 +23,31 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Get snk source
+        uses: actions/checkout@v4
+        with:
+          repository: Platane/snk
+          ref: v3.5.0
+          path: snk
+
+      - uses: oven-sh/setup-bun@v2
+
+      - name: Generate 2023 snake
+        working-directory: snk
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          INPUT_GITHUB_USER_NAME: ${{ github.repository_owner }}
+          INPUT_OUTPUTS: |
+            ../dist/github-contribution-grid-snake-2023.svg
+            ../dist/github-contribution-grid-snake-2023-dark.svg?palette=github-dark
+        run: |
+          sed -i 's/contributionsCollection {/contributionsCollection(from: "2023-01-01T00:00:00Z", to: "2023-12-31T23:59:59Z") {/' packages/github-user-contribution/index.ts
+          grep -q 'from: "2023-01-01' packages/github-user-contribution/index.ts
+          bun install --ignore-scripts
+          bun run packages/action/index.ts
+          ls -la ../dist
+          test -s ../dist/github-contribution-grid-snake-2023.svg
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
