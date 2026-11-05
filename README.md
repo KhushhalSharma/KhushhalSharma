@@ -68,11 +68,8 @@ The case studies (architecture, incidents and results) are on my **[portfolio â†
 ## GitHub stats
 
 <p align="center">
-  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" width="100%" />
-</p>
-<p align="center">
-  <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" width="49%" />
-  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most committed languages" width="49%" />
+  <img src="https://raw.githubusercontent.com/KhushhalSharma/KhushhalSharma/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language" width="49%" />
+  <img src="https://raw.githubusercontent.com/KhushhalSharma/KhushhalSharma/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most committed languages" width="49%" />
 </p>
 
 <p align="center"><sub>Most of my production code is in private company repositories. The repos here are personal projects.</sub></p>
