@@ -42,6 +42,7 @@ jobs:
             ../dist/github-contribution-grid-snake-2023.svg
             ../dist/github-contribution-grid-snake-2023-dark.svg?palette=github-dark
         run: |
+          sudo chown -R "$USER" ../dist
           sed -i 's/contributionsCollection {/contributionsCollection(from: "2023-01-01T00:00:00Z", to: "2023-12-31T23:59:59Z") {/' packages/github-user-contribution/index.ts
           grep -q 'from: "2023-01-01' packages/github-user-contribution/index.ts
           bun install --ignore-scripts
