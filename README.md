@@ -27,7 +27,7 @@ I build and ship the frontends of a global travel and OTT platform: streaming on
 
 | | |
 |:--|:--|
-| **693K+** | subscription orders through the platform, most through JioTV |
+| **693K+** | subscription orders through the platform |
 | **314K+** | registered users on the products I build |
 | **700+** | routes in the main web app |
 | **86 â†’ 1** | class-based files left after leading the move to functional React |
@@ -75,8 +75,8 @@ The case studies (architecture, incidents and results) are on my **[portfolio â†
 <p align="center"><sub>Most of my production code is in private company repositories. The repos here are personal projects.</sub></p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KhushhalSharma/KhushhalSharma/output/github-contribution-grid-snake-dark.svg" />
-  <img width="100%" alt="Contribution snake animation" src="https://raw.githubusercontent.com/KhushhalSharma/KhushhalSharma/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KhushhalSharma/KhushhalSharma/output/github-contribution-grid-snake-2023-dark.svg" />
+  <img width="100%" alt="Contribution snake animation, 2023" src="https://raw.githubusercontent.com/KhushhalSharma/KhushhalSharma/output/github-contribution-grid-snake-2023.svg" />
 </picture>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4f7465,55:2d4a3e,100:131110&height=110&section=footer" alt="" />
